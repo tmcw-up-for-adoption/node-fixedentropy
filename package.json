@@ -1,0 +1,5 @@
+{
+    "name": "fixedentropy",
+    "version": "1.0.0",
+    "main": "./build/Release/fixedentropy"
+}
