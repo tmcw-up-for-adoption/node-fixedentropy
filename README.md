@@ -14,7 +14,7 @@ Math.random(); // 0.2057398131582886
 // But, of course, node supports C++ modules, and V8 supports
 // runtime entropy configuration, so
 
-require('./build/Release/fixedentropy');
+require('fixedentropy');
 
 Math.random(); // 0.06971457065083086
 Math.random(); // 0.06971457065083086
