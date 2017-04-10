@@ -1,5 +1,7 @@
 # node-fixedentropy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/node-fixedentropy.svg)](https://greenkeeper.io/)
+
 ```js
 // V8 supports custom sources of entropy.
 // by default, entropy is fairly entropic; in node.js, it's sourced
